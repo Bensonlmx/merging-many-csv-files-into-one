@@ -1,7 +1,7 @@
 ### merging-many-csv-files-into-one
 Pythonic solution to solving a commonplace problem as encountered somewhere
 
-##Requirements##
+## Requirements
 - All files must share the same header
 - Read all files in the same folder
 - Combine them in a single CSV
