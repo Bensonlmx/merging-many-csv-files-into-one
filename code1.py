@@ -14,3 +14,6 @@ for filename in all_files:
 
 frame = pd.concat(l, axis=0, ignore_index=True)
 frame.to.csv("output.csv", index=False)
+
+end = time.time()
+print(end - start)
